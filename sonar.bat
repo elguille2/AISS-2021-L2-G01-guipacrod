@@ -1,2 +1,2 @@
-setx "SONAR_TOKEN" "928a22cc0fa8204a4b212a97b270dc5761225a16"
+setx "SONAR_TOKEN" "7fe9df2be6ebaf1f0a5379b4294470560e391c99"
 gradlew sonarqube 
